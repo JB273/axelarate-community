@@ -10,7 +10,7 @@ Axelar Network is a work in progress. At no point in time should you transfer an
 
 ## Prerequisites
 
-- Complete all steps from [Setup with Docker](/setup-docker) or [Setup with Binaries](/setup-binaries)
+- Complete all steps from [Setup with Docker](setup/setup-docker) or [Setup with Binaries](setup/setup-binaries)
 - Select an EVM chain `[chain]`.  Currently supported EVM chains are: Ethereum, Avalanche, Fantom, Moonbeam, Polygon.
 - Complete steps from [Metamask for EVM chains](/resources/metamask.md) to connect your Metamask to `[chain]` and get some `[chain]` testnet tokens.
 - Get some AXL tokens in your Axelar Network address from the [Axelar faucet](http://faucet.testnet.axelar.dev/).
